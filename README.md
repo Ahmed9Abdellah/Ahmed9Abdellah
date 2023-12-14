@@ -8,7 +8,7 @@ Fresh Graduate seeking a suitable position as an Embedded Software Engineer in a
 My Education:
 
 1.	B.Sc in Communication and electronics engineering, Modern Academy for engineering and technology.
-2.	Embedded Software Trainee, IMT SCHOOL.
+2.	Embedded Software Trainee, IMT School.
 3.	Embedded Software Professional Nanodegree, Embedded Systems Professional Nanodegree provided by Udacity, Ministry of Communications and Information Technology [MCIT].
 4. Embeddef Software Trainee, National Telecommunication Institute (NTI) EME -  4 Months Program - Automotive Embedded Systems Track.
 
